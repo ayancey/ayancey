@@ -12,6 +12,6 @@ Here's some silly stuff I've done recently:
   - Speech-to-Text to verify you answered correctly
   - Just a proof of concept, barely works
  
-Pinned repos are projects I've contributed to or just find interesting.
+Pinned repos are projects I've contributed to or just find interesting. I really love Plex and playing around with all the *arr projects.
 
 Thanks for reading!
